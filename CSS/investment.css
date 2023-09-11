@@ -1,0 +1,118 @@
+*{
+    margin: -3px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+.head1{
+    background-color: white;
+    width:86%;
+    height:100px;
+    display: flex;
+    padding-left: 100px;
+    justify-content: space-between;
+    margin-top:20px;
+    padding-top: 5%;
+}
+.address{
+    display: flex;
+    gap:50px;
+}
+.phn{
+    display: flex;
+    justify-content: space-around;
+    /* width: 86%; */
+}
+.img1{
+    height: 20px;
+    width: 108px;
+
+}
+ul{
+    display: flex;
+    gap:30px;
+    list-style: none;
+}
+.lo{
+    color:aqua;
+    padding-left: 5px;
+    display: inline-block;
+}
+.para{
+    padding-right: 4px;
+    display: inline-block;
+}
+.mail{
+    color: aqua;
+    /* background-color: red; */
+    padding-left: 3px;
+}
+li:hover{
+    border-top: 5px solid aqua;
+}
+.content{
+    background-image:url("kiddy1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width:100%;
+    height:500px;
+    position: relative;
+    text-align: center;
+    padding:146px;
+    color: white; 
+}
+input{
+    color:red;
+    background-color: yellow;
+    padding: 7px;
+}
+.absdiv{
+    display: flex;
+    position: absolute;
+    left:264px;
+    top:584px;
+}
+.box1{
+    width: 230px;
+    height: 200px;
+    background-color: orangered;
+    padding-left: 3px;
+    padding-top: 5px;
+}
+.box2{
+    width: 230px;
+    height: 200px;
+    background-color: lightseagreen;
+    padding-left: 3px;
+    padding-top: 5px;
+}
+.box3{
+    width: 230px;
+    height: 200px;
+    background-color: green;
+    padding-left: 3px;
+    padding-top: 5px;
+}
+.abtus{
+    margin:195px 193px;
+    padding: 14px 58px;
+    display: flex;
+    justify-content: space-evenly;
+    gap:40px;
+}
+.abtus1{
+    height: 100px;
+    width: 650px;
+}
+.img2{
+    height: 80px;
+    width: 100px;
+}
+.img3{
+    height: 80px;
+    width: 100px;
+}
+.phn p{
+    color: blueviolet;
+    font-size: 25px;
+}

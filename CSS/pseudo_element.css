@@ -1,0 +1,27 @@
+#firstline::first-line{
+    color: blue;
+}
+#firstletter::first-letter{
+    color: hotpink;
+}
+
+#before::before{
+    content : "is written usng before pseudoelemt";
+    background-color: aqua;
+}
+
+
+#after::after{
+    content:"this is written using after pseudoelemnt";
+    background-color: aqua;
+}
+
+::marker{
+    color: red;
+    font-size: 23px;
+
+
+}
+#selection::selection{
+    background-color: hotpink;
+}

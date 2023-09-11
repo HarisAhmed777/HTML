@@ -1,0 +1,42 @@
+
+body{
+    /*background-image: url(images.jpeg);
+    background-size: cover ;
+    background-repeat: no-repeat;*/
+    opacity: 1px;
+    color: white;
+    background-image: linear-gradient(darkorange, red);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h3{
+    margin:0px;
+    width: 100px;
+    float: left;
+    display: inline-block;
+}
+
+ul{
+    margin:0px 30px 0px 850px;
+}
+
+ li{
+    margin:0 20px;
+    /*float: left;*/
+    display:inline-block;
+
+}
+.content{
+    text-align: left;
+    margin:340px 500px;
+
+}
+input{
+    display: inline-block;
+    border-radius: 20px;
+    padding: 8px 8px;
+    outline: none;
+    border-style: none;
+}
+
+

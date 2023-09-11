@@ -1,0 +1,25 @@
+.haris{
+    background-color: green;
+    color: white;
+    padding: 25px;
+    text-align: center;
+  }
+  
+  .haris:hover {
+    background-color: blue;}
+   a:visited{
+    background-color: red;
+}
+a:visited{
+    background:green;
+}
+a:active{
+    background-color: blue;
+}
+p:first-child{
+    color: hotpink;
+}
+p:nth-child(even){
+    background: hotpink;
+}
+}

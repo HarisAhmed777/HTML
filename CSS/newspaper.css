@@ -1,0 +1,148 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.whole{
+    /* display: flex; */
+    justify-content: space-around;
+}
+.paper1{
+    height: 800px;
+    width:600px;
+    background-color: white;
+    float: left;
+    margin:10px 5px 5px 20px;
+    padding: 20px 30px;
+}
+.paper2{
+    height: 800px;
+    width:600px;
+    background-color: rgb(255, 255,255);
+    float: left;
+    margin:10px 5px 5px 20px;
+    padding: 20px 30px;
+}
+.kb1{
+    height: 100px;
+    width:150px;
+    border: 1px;
+    border-style:solid;
+    border-color: aqua;
+    float: left;
+    margin: 10px;
+    padding: 5px;
+   
+    /* border-style: dashed ; */
+
+}
+.kb2{
+    height: 100px;
+    width:150px;
+    border: 1px;
+    border-style:solid;
+    border-color: aqua;
+    float: left;
+    margin: 10px;
+    padding: 5px;
+   
+    /* border-style: dashed ; */
+    
+}
+.kb3{
+    height: 250px;
+    width:200px;
+    border: 1px;
+    border-style:solid;
+    border-color: aqua;
+    float: left;
+    margin: 10px;
+    padding: 5px;
+   
+    /* border-style: dashed ; */
+    
+}
+.kb4{
+    height: 150px;
+    width:300px;
+    border: 1px;
+    border-style:solid;
+    border-color: aqua;
+    margin: 150px 10px 10px 10px;
+    padding: 5px;
+   
+
+}   
+.kb5{
+    height: 100px;
+    width:150px;
+    border: 1px;
+    border-style:solid;
+    border-color: aqua;
+    float: left;
+    margin: 10px;
+    padding: 5px;
+}
+.kb6{
+    height: 100px;
+    width:150px;
+    border: 1px;
+    border-style:solid;
+    border-color: aqua;
+    float: left;
+    margin: 10px;
+    padding: 5px;
+}
+.kb7{
+    height: 100px;
+    width:150px;
+    border: 1px;
+    border-style:solid;
+    border-color: aqua;
+    float: left;
+    margin: 10px;
+    padding: 5px;
+}
+.kb01{
+    height: 200px;
+    width:500px;
+    border:1px solid red;
+}
+.kb02{
+    height: 250px;
+    width:150px;
+    border: 1px;
+    border-style:solid;
+    border-color: aqua;
+    float: left;
+    margin: 10px;
+    padding: 5px;
+   
+    /* border-style: dashed ; */
+
+}
+.kb03{
+    height: 250px;
+    width:150px;
+    border: 1px;
+    border-style:solid;
+    border-color: aqua;
+    float: left;
+    margin: 10px;
+    padding: 5px;
+   
+    /* border-style: dashed ; */
+
+}
+.kb04{
+    height: 250px;
+    width:150px;
+    border-style:solid; 
+    border-left: 1px ;
+    border-color: aqua;
+    float: left;
+    margin: 10px;
+    padding: 5px;
+   
+    /* border-style: dashed ; */
+
+}

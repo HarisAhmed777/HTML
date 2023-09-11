@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+}
+.temp{
+    width: 100%;
+}
+.image{
+    background:url(https://img.freepik.com/free-vector/background-realistic-abstract-technology-particle_23-2148431735.jpg?w=1060&t=st=1693826928~exp=1693827528~hmac=40ebf17ec2cde2452a771b65c5e7ca6808cccd658a0309abd3391369a72cbf23);
+    width: 100vw;
+    height: 100vh;
+    opacity: 0.5;
+}
+.header{
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+.header-img{
+    display: inline-block;
+    width: 250px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.header-img img:nth-child(1){
+    width: 100px;
+    height: 100px;
+}
+.header-img img:nth-child(2){
+    width: 130px;
+    height: 100px;
+}
+nav{
+    display: inline-block;
+    width: 500px;
+    /* margin-left: 400px; */
+    position: absolute;
+    top: 25px;
+    right: 10px;
+}
+li{
+    /* float: right; */
+    text-decoration: none;
+    padding: 12px 14px;
+    display: inline-block;
+    list-style-type: none;
+    text-align: end;
+}
+button{
+    border-radius: 10px;
+    padding: 20px;
+}.cont p{
+    padding-bottom: 20px;
+}
+.cont span{
+    color: yellow;
+}
+
+li:hover{
+    background-color: red;
+}
+.cont{
+    position: absolute;
+    top: 200px;
+    left: 100px;
+    text-align: center;
+    padding: 50px;
+}
+h1{
+    font-size: 5rem;
+}
+p{
+
+}

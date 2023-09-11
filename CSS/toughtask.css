@@ -1,0 +1,29 @@
+div{
+    background-color:grey;
+    display: inline-block;
+    width: 600px;
+    border-radius: 10px;
+     li:hover:
+         background-color: red;  
+    }
+}
+li{
+    /* background-color: aqua; */
+    display: inline-block;
+    background-color:grey;
+    margin:0 20px;
+    padding: 10px;
+    border-radius: 10px;
+    
+
+}
+li:hover{
+    background-color: aqua;
+}
+/*  li a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+    background-color: #04AA6D;
+} */

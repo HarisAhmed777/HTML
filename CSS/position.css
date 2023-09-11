@@ -1,0 +1,35 @@
+.bluebox{
+    height: 300px;
+    width: 200px;
+    background-color: blueviolet;
+    position: relative;
+
+}
+.yellowbox{
+    height: 100px;
+    width :100px;
+    background-color: yellow;
+    position:absolute;
+
+
+
+}
+
+.redbox{
+    height: 300px;
+    width: 300px;
+    background-color: red;
+    position: fixed;
+    top: 100px;
+    left:300px;
+
+
+}
+.blackbox{
+    height: 300px;
+    width: 300px;
+    background-color: black;
+    position: sticky;
+    top: 0px;
+
+}

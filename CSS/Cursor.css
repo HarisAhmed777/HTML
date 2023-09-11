@@ -1,0 +1,9 @@
+h2{
+    cursor: pointer;
+}
+div{
+    cursor:grab;
+}
+p{
+    cursor: all-scroll;
+}
